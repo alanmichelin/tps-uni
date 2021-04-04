@@ -1,4 +1,4 @@
-package TP1;
+package ACT1;
 import java.util.Scanner;
 
 

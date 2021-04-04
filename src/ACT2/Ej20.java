@@ -1,4 +1,4 @@
-package TP1;
+package ACT2;
 import java.util.Scanner;
 public class Ej20 {
 

@@ -1,4 +1,4 @@
-package TP1;
+package ACT1;
 import java.util.Scanner;
 public class ej1 {
 	final static Scanner entrada = new Scanner(System.in);
